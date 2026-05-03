@@ -9,7 +9,7 @@
 	<div class="container nav-row">
 		<a class="brand" href="#">
 			<div class="mark">F</div>
-			<div class="brand-name">Fox's Auto Sound</div>
+			<div class="brand-name">Fox's Auto Sound - DEMO</div>
 		</a>
 		<div class="nav-links">
 			<a href="#services">Services</a>
