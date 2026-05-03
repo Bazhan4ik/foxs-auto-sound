@@ -293,6 +293,7 @@ nav {
 	background: var(--blue-600);
 	color: white;
 	box-shadow: 0 8px 22px -10px var(--blue-700);
+	white-space: nowrap;
 }
 .btn-primary:hover { background: var(--blue-700); transform: translateY(-1px); }
 .btn-ghost {
@@ -658,5 +659,6 @@ footer {
 	.cta-card { grid-template-columns: 1fr; padding: 40px 28px; }
 	.nav-links a:not(.btn) { display: none; }
 	section { padding: 56px 0; }
+	.nav-row { padding: 40px 12px; }
 }
 </style>
