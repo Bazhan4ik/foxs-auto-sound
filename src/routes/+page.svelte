@@ -170,7 +170,7 @@
 			</div>
 			<div class="cta-actions">
 				<a href="/cdn-cgi/l/email-protection#c6aea3aaaaa986a0a9beb5a7b3b2a9b5a9b3a8a2e8a5a9ab" class="btn btn-primary">Email the shop</a>
-				<a href="#" class="btn btn-ghost">Find us on the map</a>
+				<a target="_blank" href="https://maps.app.goo.gl/6jZ2DnN5eKrPLrFg8" class="btn btn-ghost">Find us on the map</a>
 			</div>
 		</div>
 	</div>
