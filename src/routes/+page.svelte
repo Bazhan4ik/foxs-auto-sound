@@ -178,7 +178,7 @@
 
 <footer>
 	<div class="container foot-row">
-		<div>© 2026 Fox's Auto Sound — all installs guaranteed.</div>
+		<div>© 2026 Fox's Auto Sound</div>
 		<div>BN</div>
 		<div>Mon–Fri · 9am–6pm</div>
 	</div>
